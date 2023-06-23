@@ -12,12 +12,8 @@ body {
 .bieden {
   margin-top: 40px;
 }
-.huis-img {
-  margin-left: auto;
-  margin-right: auto;
-}
 .datalist{
-  max-width: 1000px;
+  max-width: 600px;
   min-width: 200px;
   justify-content: center;
   align-items: center;
@@ -33,12 +29,15 @@ body {
   .input {
     border: 1px solid #000;
   }
-  .button {
+  button {
     background-color: #000;
-    border: 1px solid transparent;
+    border: 3px solid transparent;
+    border-radius: 5px;
     color: #ffffff;
+    font-size: medium;
+    padding: 1px;
   } 
-  .button:hover {
+  button:hover {
     background-color: #222;
     cursor: pointer;
   }
