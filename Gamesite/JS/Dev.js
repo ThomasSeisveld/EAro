@@ -3,12 +3,9 @@ const createNav = () => {
 
     nav.innerHTML = `
         <div class="nav">
-           <a href="index.html"><img src="img/logo.png" class="brand-logo" alt=""></a>
+           <a href="index.html"><img src="img/logo.png" class="brand-logo" alt="" style="width: 200px"></a>
             <div class="nav-items">
-                <div class="search">
-                    <input type="text" class="search-box" placeholder="search brand, product">
-                    <button class="search-btn">search</button>
-                </div>
+           
                 <a href="Formulier.html"><img src="img/user.png" alt=""></a>
                 <a href="#"><img src="img/cart.png" alt=""></a>
             </div>
@@ -226,4 +223,3 @@ const createHouse = () => {
         </div>
       `;
 }
-

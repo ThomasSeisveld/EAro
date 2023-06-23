@@ -28,7 +28,7 @@
             $address = "Zijdeweg 26";
             $postcode = "2244 BG Wassenaar";
             $price = "€ 1.365.000";
-            $picture = "img/huis1.jpeg";
+            $picture = "img/Header.jpg";
             $bouwjaar = "1910";
             $oppervlakte = "194 m²";
             $atlkamer = "8";

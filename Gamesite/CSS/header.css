@@ -1,9 +1,8 @@
 .navbar{
-    position: sticky;
     top: 0;
     left: 0;
     width: 100%;
-    background: #f5f5f5;
+    background: white;
     z-index: 9;
 }
 
@@ -20,11 +19,6 @@
 .nav-items{
     display: flex;
     align-items: center;
-}
-
-.search{
-    width: 500px;
-    display: flex;
 }
 
 .search-box{
